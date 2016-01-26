@@ -1,7 +1,3 @@
-Due to lack of time, not able to make quality documents. Sorry about that. 
-i will improve it when time given. Thanks.
-
-
 
 1. Open the project and build it to resolve all Nuget packeges and ensure no compile
    time errors.
