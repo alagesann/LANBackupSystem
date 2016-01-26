@@ -1,0 +1,15 @@
+C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Debug\LANBackup.LoggerService.pdb
+C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Debug\NServiceBus.Core.dll
+C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Debug\NServiceBus.Core.pdb
+C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Debug\NServiceBus.Core.xml
+C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\obj\Debug\LANBackup.LoggerService.pdb
+C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Debug\LANBackup.Shared.dll
+C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Debug\LANBackup.Shared.pdb
+C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\obj\Debug\LANBackup.LoggerService.csprojResolveAssemblyReference.cache
+C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Debug\LANBackup.LoggerService.exe.config
+C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Debug\LANBackup.LoggerService.exe
+C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\obj\Debug\LANBackup.LoggerService.exe
+C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Debug\EntityFramework.dll
+C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Debug\EntityFramework.SqlServer.dll
+C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Debug\EntityFramework.xml
+C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Debug\EntityFramework.SqlServer.xml

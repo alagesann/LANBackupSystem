@@ -1,0 +1,280 @@
+﻿2015-12-25 21:46:02.973 INFO  DefaultFactory Logging to 'C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\' with level Info
+2015-12-25 21:46:03.004 INFO  NServiceBus.Persistence.PersistenceStartup Activating persistence 'InMemoryPersistence' to provide storage for 'NServiceBus.Persistence.StorageType+Sagas' storage.
+2015-12-25 21:46:03.005 INFO  NServiceBus.Persistence.PersistenceStartup Activating persistence 'InMemoryPersistence' to provide storage for 'NServiceBus.Persistence.StorageType+Timeouts' storage.
+2015-12-25 21:46:03.005 INFO  NServiceBus.Persistence.PersistenceStartup Activating persistence 'InMemoryPersistence' to provide storage for 'NServiceBus.Persistence.StorageType+Subscriptions' storage.
+2015-12-25 21:46:03.006 INFO  NServiceBus.Persistence.PersistenceStartup Activating persistence 'InMemoryPersistence' to provide storage for 'NServiceBus.Persistence.StorageType+Outbox' storage.
+2015-12-25 21:46:03.007 INFO  NServiceBus.Persistence.PersistenceStartup Activating persistence 'InMemoryPersistence' to provide storage for 'NServiceBus.Persistence.StorageType+GatewayDeduplication' storage.
+2015-12-25 21:46:03.221 INFO  NServiceBus.Licensing.LicenseManager Trial for Particular Service Platform is still active, trial expires on 1/8/2016.
+2015-12-25 21:46:03.307 INFO  NServiceBus.Features.UnicastBus Number of messages found: 3
+2015-12-25 21:46:03.899 WARN  NServiceBus.Transports.Msmq.MsmqQueueCreator Queue HYD-PALANIA\private$\LANBackupSystem.LoggerService does not exist.
+2015-12-25 21:46:04.652 WARN  NServiceBus.Transports.Msmq.MsmqQueueCreator Queue HYD-PALANIA\private$\LANBackupSystem.LoggerService.Timeouts does not exist.
+2015-12-25 21:46:05.332 WARN  NServiceBus.Transports.Msmq.MsmqQueueCreator Queue HYD-PALANIA\private$\LANBackupSystem.LoggerService.TimeoutsDispatcher does not exist.
+2015-12-25 21:46:05.998 WARN  NServiceBus.Transports.Msmq.MsmqQueueCreator Queue HYD-PALANIA\private$\LANBackupSystem.LoggerService.Retries does not exist.
+2015-12-25 21:46:06.761 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'NT AUTHORITY\SYSTEM' to group 'Performance Monitor Users' because the user is already in group.
+2015-12-25 21:46:06.774 INFO  NServiceBus.Features.DisplayDiagnosticsForFeatures ------------- FEATURES ----------------
+Name: CriticalErrorHandling
+Version: 5.2.12
+Enabled by Default: Yes
+Status: Enabled
+Dependencies: None
+Startup Tasks: None
+
+Name: CustomIDataBus
+Version: 5.2.12
+Enabled by Default: No
+Status: Disabled
+Deactivation reason: Did not meet one of the dependencies: [DataBus]
+
+Name: DataBus
+Version: 5.2.12
+Enabled by Default: Yes
+Status: Disabled
+Deactivation reason: Did not fulfill its Prerequisites:
+   -No databus properties was found in available messages
+
+Name: Encryptor
+Version: 5.2.12
+Enabled by Default: Yes
+Status: Disabled
+Deactivation reason: Did not fulfill its Prerequisites:
+   -No encryption properties was found in available messages
+
+Name: ErrorSubscribers
+Version: 5.2.12
+Enabled by Default: Yes
+Status: Enabled
+Dependencies: None
+Startup Tasks: None
+
+Name: ForwarderFaultManager
+Version: 5.2.12
+Enabled by Default: Yes
+Status: Enabled
+Dependencies: None
+Startup Tasks: None
+
+Name: InMemoryFaultManager
+Version: 5.2.12
+Enabled by Default: No
+Status: Disabled
+Deactivation reason: Did not meet one of the dependencies: 
+
+Name: InstallationSupport
+Version: 5.2.12
+Enabled by Default: No
+Status: Enabled
+Dependencies: None
+Startup Tasks: None
+
+Name: CriticalTimeMonitoring
+Version: 5.2.12
+Enabled by Default: No
+Status: Disabled
+Deactivation reason: Did not meet one of the dependencies: 
+
+Name: Audit
+Version: 5.2.12
+Enabled by Default: Yes
+Status: Disabled
+Deactivation reason: Did not fulfill its Prerequisites:
+   -No configured audit queue was found
+
+Name: AutoSubscribe
+Version: 5.2.12
+Enabled by Default: Yes
+Status: Enabled
+Dependencies: None
+Startup Tasks: ApplySubscriptions
+
+Name: MsmqSubscriptionPersistence
+Version: 5.2.12
+Enabled by Default: No
+Status: Disabled
+Deactivation reason: Did not meet one of the dependencies: 
+
+Name: Scheduler
+Version: 5.2.12
+Enabled by Default: Yes
+Status: Enabled
+Dependencies: None
+Startup Tasks: None
+
+Name: CustomSerialization
+Version: 5.2.12
+Enabled by Default: Yes
+Status: Disabled
+Deactivation reason: Did not fulfill its Prerequisites:
+   -CustomSerialization not enable since serialization definition not detected.
+
+Name: ForwardReceivedMessages
+Version: 5.2.12
+Enabled by Default: Yes
+Status: Disabled
+Deactivation reason: Did not fulfill its Prerequisites:
+   -No forwarding address was defined in the unicastbus config
+
+Name: RegisterHandlersInOrder
+Version: 5.2.12
+Enabled by Default: Yes
+Status: Enabled
+Dependencies: None
+Startup Tasks: None
+
+Name: SLAMonitoring
+Version: 5.2.12
+Enabled by Default: No
+Status: Disabled
+Deactivation reason: Did not meet one of the dependencies: 
+
+Name: LicenseReminder
+Version: 5.2.12
+Enabled by Default: Yes
+Status: Enabled
+Dependencies: None
+Startup Tasks: None
+
+Name: Outbox
+Version: 5.2.12
+Enabled by Default: No
+Status: Disabled
+Deactivation reason: Did not meet one of the dependencies: 
+
+Name: InMemoryGatewayPersistence
+Version: 5.2.12
+Enabled by Default: No
+Status: Disabled
+Deactivation reason: Did not meet one of the dependencies: [Gateway]
+
+Name: InMemoryOutboxPersistence
+Version: 5.2.12
+Enabled by Default: No
+Status: Disabled
+Deactivation reason: Did not meet one of the dependencies: [Outbox]
+
+Name: InMemorySagaPersistence
+Version: 5.2.12
+Enabled by Default: No
+Status: Disabled
+Deactivation reason: Did not meet one of the dependencies: [Sagas]
+
+Name: InMemorySubscriptionPersistence
+Version: 5.2.12
+Enabled by Default: No
+Status: Enabled
+Dependencies: [MessageDrivenSubscriptions]
+Startup Tasks: None
+
+Name: InMemoryTimeoutPersistence
+Version: 5.2.12
+Enabled by Default: No
+Status: Enabled
+Dependencies: [TimeoutManager]
+Startup Tasks: None
+
+Name: TimeoutManagerBasedDeferral
+Version: 5.2.12
+Enabled by Default: No
+Status: Enabled
+Dependencies: None
+Startup Tasks: None
+
+Name: UnicastBus
+Version: 5.2.12
+Enabled by Default: Yes
+Status: Enabled
+Dependencies: None
+Startup Tasks: None
+
+Name: BinarySerialization
+Version: 5.2.12
+Enabled by Default: Yes
+Status: Disabled
+Deactivation reason: Did not fulfill its Prerequisites:
+   -BinarySerialization not enable since serialization definition not detected.
+
+Name: BsonSerialization
+Version: 5.2.12
+Enabled by Default: Yes
+Status: Disabled
+Deactivation reason: Did not fulfill its Prerequisites:
+   -BsonSerialization not enable since serialization definition not detected.
+
+Name: JsonSerialization
+Version: 5.2.12
+Enabled by Default: Yes
+Status: Enabled
+Dependencies: None
+Startup Tasks: None
+
+Name: XmlSerialization
+Version: 5.2.12
+Enabled by Default: Yes
+Status: Disabled
+Deactivation reason: Did not fulfill its Prerequisites:
+   -XmlSerialization not enable since serialization definition not detected.
+
+Name: MsmqTransportConfigurator
+Version: 5.2.12
+Enabled by Default: No
+Status: Enabled
+Dependencies: None
+Startup Tasks: None
+
+Name: TimeoutManager
+Version: 5.2.12
+Enabled by Default: No
+Status: Enabled
+Dependencies: [TimeoutManagerBasedDeferral]
+Startup Tasks: None
+
+Name: Sagas
+Version: 5.2.12
+Enabled by Default: Yes
+Status: Disabled
+Deactivation reason: Did not fulfill its Prerequisites:
+   -No sagas was found in scanned types
+
+Name: SecondLevelRetries
+Version: 5.2.12
+Enabled by Default: Yes
+Status: Enabled
+Dependencies: [ForwarderFaultManager]
+Startup Tasks: None
+
+Name: DataBusFileBased
+Version: 5.2.12
+Enabled by Default: No
+Status: Disabled
+Deactivation reason: Did not meet one of the dependencies: [DataBus]
+
+Name: StorageDrivenPublishing
+Version: 5.2.12
+Enabled by Default: No
+Status: Enabled
+Dependencies: None
+Startup Tasks: None
+
+Name: MessageDrivenSubscriptions
+Version: 5.2.12
+Enabled by Default: No
+Status: Enabled
+Dependencies: None
+Startup Tasks: None
+
+
+2015-12-25 21:46:06.878 INFO  NServiceBus.Satellites.SatelliteLauncher Started 3/3 NServiceBus.SecondLevelRetries.SecondLevelRetriesProcessor, NServiceBus.Core, Version=5.0.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c satellite
+2015-12-25 21:46:06.890 INFO  NServiceBus.Satellites.SatelliteLauncher Started 1/3 NServiceBus.Timeout.Hosting.Windows.TimeoutMessageProcessor, NServiceBus.Core, Version=5.0.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c satellite
+2015-12-25 21:46:06.903 INFO  NServiceBus.Satellites.SatelliteLauncher Started 2/3 NServiceBus.Timeout.Hosting.Windows.TimeoutDispatcherProcessor, NServiceBus.Core, Version=5.0.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c satellite
+2015-12-25 21:46:06.942 INFO  NServiceBus.Unicast.Subscriptions.MessageDrivenSubscriptions.SubscriptionManager Subscribing to LANBackup.Shared.BackupCompletedEvent, LANBackup.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null at publisher queue LANBackupSystem.ClientService@HYD-PALANIA
+2015-12-25 21:49:48.168 INFO  LANBackup.LoggerService.BackupCompletedEventHandler Event received with id:35294e5d-b88a-4bb2-a443-daa8bb675e44
+2015-12-25 21:49:48.763 INFO  LANBackup.LoggerService.BackupCompletedEventHandler Event received with id:616c6b7c-b910-4162-9926-54539dc2539b
+2015-12-25 21:51:31.928 INFO  LANBackup.LoggerService.BackupCompletedEventHandler Event received with id:5ef1ef70-28f5-4501-a8ca-d776cf9e76c1
+2015-12-25 21:51:32.507 INFO  LANBackup.LoggerService.BackupCompletedEventHandler Event received with id:1a57e300-d55c-4be7-8de1-63e80a06901a
+2015-12-25 21:52:40.530 INFO  LANBackup.LoggerService.BackupCompletedEventHandler Event received with id:be10fe68-97f4-429f-8c3d-8059bac142cc
+2015-12-25 21:54:18.947 INFO  LANBackup.LoggerService.BackupCompletedEventHandler Event received with id:b907b9a6-f899-4bac-a006-a520475bf29e
+2015-12-25 22:01:04.507 INFO  LANBackup.LoggerService.BackupCompletedEventHandler Event received with id:6e50d1f6-98d5-4235-a95c-abc895741447
+2015-12-25 22:07:35.339 INFO  LANBackup.LoggerService.BackupCompletedEventHandler Event received with id:2b47cc2e-7a39-415e-bdc9-ba0f180938a0
+2015-12-25 22:07:43.202 INFO  LANBackup.LoggerService.BackupCompletedEventHandler Event received with id:01355f63-9243-4dfc-a0f2-7f2cfb4cd342
+2015-12-25 22:07:44.891 INFO  LANBackup.LoggerService.BackupCompletedEventHandler Event received with id:ec1b3536-ef56-4fbc-ad80-40ef2250fd8a
+2015-12-25 22:07:46.341 INFO  LANBackup.LoggerService.BackupCompletedEventHandler Event received with id:3c36aed6-8c33-46c6-aa04-0b2488bac445
+2015-12-25 22:07:47.028 INFO  LANBackup.LoggerService.BackupCompletedEventHandler Event received with id:86b74469-3b01-4088-9feb-7bef8c37bd04

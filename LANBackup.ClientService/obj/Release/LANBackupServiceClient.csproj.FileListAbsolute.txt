@@ -1,0 +1,11 @@
+C:\LANBackupSystem\LANBackupServiceClient\LANBackupServiceClient\bin\Release\LANBackupServiceClient.exe
+C:\LANBackupSystem\LANBackupServiceClient\LANBackupServiceClient\bin\Release\NServiceBus.Core.dll
+C:\LANBackupSystem\LANBackupServiceClient\LANBackupServiceClient\bin\Release\LANBackupServiceClient.exe.config
+C:\LANBackupSystem\LANBackupServiceClient\LANBackupServiceClient\bin\Release\LANBackup.Shared.dll
+C:\LANBackupSystem\LANBackupServiceClient\LANBackupServiceClient\bin\Release\LANBackup.Shared.pdb
+C:\LANBackupSystem\LANBackupServiceClient\LANBackupServiceClient\bin\Release\NServiceBus.Core.pdb
+C:\LANBackupSystem\LANBackupServiceClient\LANBackupServiceClient\bin\Release\NServiceBus.Core.xml
+C:\LANBackupSystem\LANBackupServiceClient\LANBackupServiceClient\obj\Release\LANBackupServiceClient.csprojResolveAssemblyReference.cache
+C:\LANBackupSystem\LANBackupServiceClient\LANBackupServiceClient\obj\Release\LANBackupServiceClient.exe
+C:\LANBackupSystem\LANBackupServiceClient\LANBackupServiceClient\obj\Release\LANBackupServiceClient.pdb
+C:\LANBackupSystem\LANBackupServiceClient\LANBackupServiceClient\bin\Release\LANBackupServiceClient.pdb

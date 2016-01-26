@@ -1,0 +1,82 @@
+﻿<form class="form-horizontal" name="jobForm" novalidate role="form">
+
+    <fieldset>
+        <legend>Source Computer</legend>
+        <div class="form-group" show-errors>
+            <label for="sourcePath" class="col-sm-3 control-label">Path</label>
+            <div class="col-sm-9">
+                <input type="text" id="sourcePath" name="sourcePath" class="form-control"
+                       ng-model="editableJob.sourcePath" ng-required="true"/>
+                <span class="help-block" 
+                      ng-if="jobForm.sourcePath.$error.required">Source Path is required</span>
+            </div>
+        </div>
+
+        <div class="form-group" show-errors>
+            <label for="sourceUserId" class="col-sm-3 control-label">UserId</label>
+            <div class="col-sm-9">
+                <input type="text" id="sourceUserId" name="sourceUserId" class="form-control"
+                       ng-model="editableJob.sourceUser.userId" ng-required="true" />
+                <span class="help-block"
+                      ng-if="jobForm.sourceUserId.$error.required">Source UserId is required</span>
+            </div>
+        </div>
+
+        <div class="form-group" show-errors>
+            <label for="sourcePassword" class="col-sm-3 control-label">Password</label>
+            <div class="col-sm-9">
+                <input type="password" id="sourcePassword" name="sourcePassword" class="form-control"
+                       ng-model="editableJob.sourceUser.password" ng-required="true" />
+                <span class="help-block"
+                      ng-if="jobForm.sourcePassword.$error.required">Source Password is required</span>
+            </div>
+        </div>
+
+    </fieldset>
+    <br />   
+
+    <fieldset>
+        <legend>Destination Computer</legend>
+        <div class="form-group" show-errors>
+            <label for="destinationPath" class="col-sm-3 control-label">Path</label>
+            <div class="col-sm-9">
+                <input type="text" id="destinationPath" name="destinationPath" class="form-control"
+                       ng-model="editableJob.destinationPath" ng-required="true" />
+                <span class="help-block"
+                      ng-if="jobForm.destinationPath.$error.required">Destination Path is required</span>
+            </div>
+        </div>
+
+        <div class="form-group" show-errors>
+            <label for="destinationUserId" class="col-sm-3 control-label">UserId</label>
+            <div class="col-sm-9">
+                <input type="text" id="destinationUserId" name="destinationUserId" class="form-control"
+                       ng-model="editableJob.destinationUser.userId" ng-required="true" />
+                <span class="help-block"
+                      ng-if="jobForm.destinationUserId.$error.required">Destination UserId is required</span>
+            </div>
+        </div>
+
+        <div class="form-group" show-errors>
+            <label for="destinationPassword" class="col-sm-3 control-label">Password</label>
+            <div class="col-sm-9">
+                <input type="password" id="destinationPassword" name="destinationPassword" class="form-control"
+                       ng-model="editableJob.destinationUser.password" ng-required="true" />
+                <span class="help-block"
+                      ng-if="jobForm.destinationPassword.$error.required">Destination Password is required</span>
+            </div>
+        </div>
+
+    </fieldset>
+
+    <div class="col-sm-offset-3 col-sm-9">
+        <input type="button" class="btn btn-default" value="Cancel"
+               ng-click="cancelForm()" />
+        <input type="submit" class="btn btn-primary" value="Submit"
+               ng-click="submitForm()" />
+        <input type="reset" class="btn btn-warning" value="Reset"
+               ng-click="resetForm()" />
+        <div class="alert alert-danger" ng-if="hasFormError">{{formErrors}}</div>
+    </div>
+
+</form>

@@ -1,0 +1,23 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+    Layout = null;
+}
+
+<html ng-app="LANBackupApp">
+<head>
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/bundles/spa/style")
+    @Scripts.Render("~/bundles/spa/script")
+<style type="text/css" >
+.schedule-table {
+    margin: 20px;
+    padding: 10px;
+}
+</style>
+</head>
+
+<body class="container">   
+    <h1>LAN Backup System </h1>
+    <div ng-view></div>
+</body>
+</html>

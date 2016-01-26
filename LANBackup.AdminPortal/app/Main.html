@@ -1,0 +1,55 @@
+﻿<div>
+    <div class="container-fluid">
+        <div class="row">
+               <div class="pull-left col-xs-6">
+                     <input type="button" class="btn-lg btn-primary" value="Schedule"
+                       ng-click="scheduleJobs()" />
+                </div>
+                <div class="pull-right col-xs-6" ng-init="selectedJobId!=null">
+                    <input type="button" class="btn-sm btn-success" value="Create"
+                           ng-click="createBackupJob()" />
+
+                    <input type="button" class="btn-sm btn-primary" value="Edit"
+                           ng-click="editBackupJob()" id="btnEdit" ng-disabled="isDisabled" />
+
+                    <input type="button" class="btn-sm btn-primary" value="Enable"
+                           ng-click="enableBackupJob()" id="btnEnable" ng-disabled="isDisabled" />
+
+                    <input type="button" class="btn-sm btn-primary" value="Disable"
+                           ng-click="disableBackupJob()" id="btnDisable" ng-disabled="isDisabled" />
+
+                    <input type="button" class="btn btn-danger" value="Delete"
+                           ng-click="deleteBackupJob()" id="btnDelete" ng-disabled="isDisabled" />
+                </div>
+            </div>
+        <div class="row">               
+            <table class="table table-bordered table-hover schedule-table">
+                <thead>
+                    <tr>
+                        <th class="col-xs-1">Id</th>
+                        <th class="col-xs-1">Status</th>
+                        <th class="col-xs-3">Source Path</th>
+                        <th class="col-xs-3">Destination Path</th>
+                        <th class="col-xs-1">Source UserName</th>
+                        <th class="col-xs-1">Source Password</th>
+                        <th class="col-xs-1">Destination UserName</th>
+                        <th class="col-xs-1">Destination Password</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="x in backupJobs" ng-click="setSelected(x.id)" ng-class="{active: x.id === selectedJobId}">
+                        <td>{{ $index + 1}}</td>
+                        <td>{{ x.status }}</td>
+                        <td>{{ x.sourcePath }}</td>
+                        <td>{{ x.destinationPath }}</td>
+                        <td>{{ x.sourceUser.userId }}</td>
+                        <td>*******</td>
+                        <td>{{ x.destinationUser.userId }}</td>
+                        <td>*******</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>        
+    </div>
+</div>
+

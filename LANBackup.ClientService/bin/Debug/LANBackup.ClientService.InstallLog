@@ -1,0 +1,88 @@
+﻿Installing assembly 'C:\LANBackupSystem\LANBackup.ClientService\bin\Debug\LANBackup.ClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\LANBackupSystem\LANBackup.ClientService\bin\Debug\LANBackup.ClientService.InstallLog
+   assemblypath = C:\LANBackupSystem\LANBackup.ClientService\bin\Debug\LANBackup.ClientService.exe
+Installing service LAN Backup Client Service...
+Service LAN Backup Client Service has been successfully installed.
+Creating EventLog source LAN Backup Client Service in log Application...
+Committing assembly 'C:\LANBackupSystem\LANBackup.ClientService\bin\Debug\LANBackup.ClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\LANBackupSystem\LANBackup.ClientService\bin\Debug\LANBackup.ClientService.InstallLog
+   assemblypath = C:\LANBackupSystem\LANBackup.ClientService\bin\Debug\LANBackup.ClientService.exe
+Uninstalling assembly 'C:\LANBackupSystem\LANBackup.ClientService\bin\Debug\LANBackup.ClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\LANBackupSystem\LANBackup.ClientService\bin\Debug\LANBackup.ClientService.InstallLog
+   assemblypath = C:\LANBackupSystem\LANBackup.ClientService\bin\Debug\LANBackup.ClientService.exe
+Removing EventLog source LAN Backup Client Service.
+Service LAN Backup Client Service is being removed from the system...
+Service LAN Backup Client Service was successfully removed from the system.
+Attempt to stop service LAN Backup Client Service.
+Installing assembly 'C:\LANBackupSystem\LANBackup.ClientService\bin\Debug\LANBackup.ClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\LANBackupSystem\LANBackup.ClientService\bin\Debug\LANBackup.ClientService.InstallLog
+   assemblypath = C:\LANBackupSystem\LANBackup.ClientService\bin\Debug\LANBackup.ClientService.exe
+Installing service LAN Backup Client Service...
+Service LAN Backup Client Service has been successfully installed.
+Creating EventLog source LAN Backup Client Service in log Application...
+Committing assembly 'C:\LANBackupSystem\LANBackup.ClientService\bin\Debug\LANBackup.ClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\LANBackupSystem\LANBackup.ClientService\bin\Debug\LANBackup.ClientService.InstallLog
+   assemblypath = C:\LANBackupSystem\LANBackup.ClientService\bin\Debug\LANBackup.ClientService.exe
+Uninstalling assembly 'C:\LANBackupSystem\LANBackup.ClientService\bin\Debug\LANBackup.ClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\LANBackupSystem\LANBackup.ClientService\bin\Debug\LANBackup.ClientService.InstallLog
+   assemblypath = C:\LANBackupSystem\LANBackup.ClientService\bin\Debug\LANBackup.ClientService.exe
+Removing EventLog source LAN Backup Client Service.
+Service LAN Backup Client Service is being removed from the system...
+Service LAN Backup Client Service was successfully removed from the system.
+Attempt to stop service LAN Backup Client Service.
+Installing assembly 'C:\LANBackupSystem\LANBackup.ClientService\bin\Debug\LANBackup.ClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\LANBackupSystem\LANBackup.ClientService\bin\Debug\LANBackup.ClientService.InstallLog
+   assemblypath = C:\LANBackupSystem\LANBackup.ClientService\bin\Debug\LANBackup.ClientService.exe
+Installing service LAN Backup Client Service...
+Service LAN Backup Client Service has been successfully installed.
+Creating EventLog source LAN Backup Client Service in log Application...
+Committing assembly 'C:\LANBackupSystem\LANBackup.ClientService\bin\Debug\LANBackup.ClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\LANBackupSystem\LANBackup.ClientService\bin\Debug\LANBackup.ClientService.InstallLog
+   assemblypath = C:\LANBackupSystem\LANBackup.ClientService\bin\Debug\LANBackup.ClientService.exe
+Uninstalling assembly 'C:\LANBackupSystem\LANBackup.ClientService\bin\Debug\LANBackup.ClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\LANBackupSystem\LANBackup.ClientService\bin\Debug\LANBackup.ClientService.InstallLog
+   assemblypath = C:\LANBackupSystem\LANBackup.ClientService\bin\Debug\LANBackup.ClientService.exe
+Removing EventLog source LAN Backup Client Service.
+Service LAN Backup Client Service is being removed from the system...
+Service LAN Backup Client Service was successfully removed from the system.
+Attempt to stop service LAN Backup Client Service.
+Installing assembly 'C:\LANBackupSystem\LANBackup.ClientService\bin\Debug\LANBackup.ClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\LANBackupSystem\LANBackup.ClientService\bin\Debug\LANBackup.ClientService.InstallLog
+   assemblypath = C:\LANBackupSystem\LANBackup.ClientService\bin\Debug\LANBackup.ClientService.exe
+Installing service LAN Backup Client Service...
+Service LAN Backup Client Service has been successfully installed.
+Creating EventLog source LAN Backup Client Service in log Application...
+Committing assembly 'C:\LANBackupSystem\LANBackup.ClientService\bin\Debug\LANBackup.ClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\LANBackupSystem\LANBackup.ClientService\bin\Debug\LANBackup.ClientService.InstallLog
+   assemblypath = C:\LANBackupSystem\LANBackup.ClientService\bin\Debug\LANBackup.ClientService.exe
+Uninstalling assembly 'C:\LANBackupSystem\LANBackup.ClientService\bin\Debug\LANBackup.ClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\LANBackupSystem\LANBackup.ClientService\bin\Debug\LANBackup.ClientService.InstallLog
+   assemblypath = C:\LANBackupSystem\LANBackup.ClientService\bin\Debug\LANBackup.ClientService.exe
+Removing EventLog source LAN Backup Client Service.
+Service LAN Backup Client Service is being removed from the system...
+Service LAN Backup Client Service was successfully removed from the system.
+Attempt to stop service LAN Backup Client Service.

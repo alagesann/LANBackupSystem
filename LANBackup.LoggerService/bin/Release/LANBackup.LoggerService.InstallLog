@@ -1,0 +1,134 @@
+﻿Installing assembly 'C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.InstallLog
+   assemblypath = C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.exe
+   logtoconsole = 
+Installing service LAN Backup Client Service...
+Creating EventLog source LAN Backup Client Service in log Application...
+Rolling back assembly 'C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.InstallLog
+   assemblypath = C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.exe
+   logtoconsole = 
+Restoring event log to previous state for source LAN Backup Client Service.
+Installing assembly 'C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.InstallLog
+   assemblypath = C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.exe
+   logtoconsole = 
+Installing service LAN Backup Logger Service...
+Service LAN Backup Logger Service has been successfully installed.
+Creating EventLog source LAN Backup Logger Service in log Application...
+Committing assembly 'C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.InstallLog
+   assemblypath = C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.InstallLog
+   assemblypath = C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.exe
+Removing EventLog source LAN Backup Logger Service.
+Service LAN Backup Logger Service is being removed from the system...
+Service LAN Backup Logger Service was successfully removed from the system.
+Attempt to stop service LAN Backup Logger Service.
+Installing assembly 'C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.InstallLog
+   assemblypath = C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.exe
+   logtoconsole = 
+Installing service LAN Backup Logger Service...
+Service LAN Backup Logger Service has been successfully installed.
+Creating EventLog source LAN Backup Logger Service in log Application...
+Committing assembly 'C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.InstallLog
+   assemblypath = C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.InstallLog
+   assemblypath = C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.exe
+Removing EventLog source LAN Backup Logger Service.
+Service LAN Backup Logger Service is being removed from the system...
+Service LAN Backup Logger Service was successfully removed from the system.
+Attempt to stop service LAN Backup Logger Service.
+Installing assembly 'C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.InstallLog
+   assemblypath = C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.exe
+   logtoconsole = 
+Installing service LAN Backup Logger Service...
+Service LAN Backup Logger Service has been successfully installed.
+Creating EventLog source LAN Backup Logger Service in log Application...
+Committing assembly 'C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.InstallLog
+   assemblypath = C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.InstallLog
+   assemblypath = C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.exe
+Removing EventLog source LAN Backup Logger Service.
+Service LAN Backup Logger Service is being removed from the system...
+Service LAN Backup Logger Service was successfully removed from the system.
+Attempt to stop service LAN Backup Logger Service.
+Installing assembly 'C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.InstallLog
+   assemblypath = C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.exe
+   logtoconsole = 
+Installing service LAN Backup Logger Service...
+Service LAN Backup Logger Service has been successfully installed.
+Creating EventLog source LAN Backup Logger Service in log Application...
+Committing assembly 'C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.InstallLog
+   assemblypath = C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.InstallLog
+   assemblypath = C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.exe
+Removing EventLog source LAN Backup Logger Service.
+Service LAN Backup Logger Service is being removed from the system...
+Service LAN Backup Logger Service was successfully removed from the system.
+Attempt to stop service LAN Backup Logger Service.
+Installing assembly 'C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.InstallLog
+   assemblypath = C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.exe
+   logtoconsole = 
+Installing service LAN Backup Logger Service...
+Service LAN Backup Logger Service has been successfully installed.
+Creating EventLog source LAN Backup Logger Service in log Application...
+Committing assembly 'C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.InstallLog
+   assemblypath = C:\LANBackupSystem\LANBackupServiceClient\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\LANBackupSystem\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\LANBackupSystem\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.InstallLog
+   assemblypath = C:\LANBackupSystem\LANBackup.LoggerService\bin\Release\LANBackup.LoggerService.exe
+Removing EventLog source LAN Backup Logger Service.
+Service LAN Backup Logger Service is being removed from the system...
+Service LAN Backup Logger Service was successfully removed from the system.

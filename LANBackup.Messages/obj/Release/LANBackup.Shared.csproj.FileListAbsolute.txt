@@ -1,0 +1,7 @@
+C:\LANBackupSystem\LANBackupServiceClient\LANBackup.Shared\bin\Release\LANBackup.Shared.dll
+C:\LANBackupSystem\LANBackupServiceClient\LANBackup.Shared\bin\Release\LANBackup.Shared.pdb
+C:\LANBackupSystem\LANBackupServiceClient\LANBackup.Shared\bin\Release\NServiceBus.Core.dll
+C:\LANBackupSystem\LANBackupServiceClient\LANBackup.Shared\bin\Release\NServiceBus.Core.pdb
+C:\LANBackupSystem\LANBackupServiceClient\LANBackup.Shared\bin\Release\NServiceBus.Core.xml
+C:\LANBackupSystem\LANBackupServiceClient\LANBackup.Shared\obj\Release\LANBackup.Shared.dll
+C:\LANBackupSystem\LANBackupServiceClient\LANBackup.Shared\obj\Release\LANBackup.Shared.pdb
